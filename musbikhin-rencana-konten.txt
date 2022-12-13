@@ -7,3 +7,5 @@ RENCANA KONTEN MUSBIKHIN
 - NODEMCU 
 - interview
 - PROJECT LEBIH BANYAK
+- Belajar Web Developer
+- Belajar Phyton
