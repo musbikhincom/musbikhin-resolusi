@@ -11,3 +11,4 @@ RENCANA KONTEN MUSBIKHIN
 - Menambah Database MySQL
 - Belajar Web Developer
 - Belajar Phyton
+- Menambah belajar plc
