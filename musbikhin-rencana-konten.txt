@@ -7,5 +7,7 @@ RENCANA KONTEN MUSBIKHIN
 - NODEMCU 
 - interview
 - PROJECT LEBIH BANYAK
+- Menambah PHP 
+- Menambah Database MySQL
 - Belajar Web Developer
 - Belajar Phyton
